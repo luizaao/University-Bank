@@ -17,4 +17,4 @@ Como gerente bancário, eu quero que os clientes possam efetuar a mensalidade do
 
 Como gerente bancário, eu quero que os associados possam tirar um extrato de suas contas no banco, para que possam ter controle financeiro.
 
-[DiagramaPUCBank.pdf](https://github.com/luizaao/University-Bank/blob/main/Diagrama_University-Bank.pdf)
+[DiagramaUniversity-Bank.pdf](https://github.com/luizaao/University-Bank/blob/main/Diagrama_University-Bank.pdf)
